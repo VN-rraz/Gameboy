@@ -1,0 +1,185 @@
+html{
+    background-color: rgb(178, 178, 252);
+}
+#gameboy{
+    background-color: lightgray;
+
+    margin: auto;
+    padding: 300px 180px;
+    height: 10px;
+    width: 10px;
+
+    border-radius: 10px 10px 50px 10px;
+
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.671);
+}
+
+#design1{
+    background-color: rgb(196, 196, 196);
+
+    margin: -483px -180px;
+
+    height: 5px;
+    width: 370px;
+}
+
+#telaborda{
+    background-color: rgb(117, 117, 117);
+
+    margin: -240px -145px;
+    padding: 120px 145px;
+
+    width: 10px;
+
+    border-radius: 10px 10px 40px 10px;
+
+    box-shadow: inset 0px 2px 10px rgba(0, 0, 0, 0.541);
+}
+
+#tela{
+    background-color: rgb(167, 173, 78);
+
+    margin: 25px -110px;
+    padding: 90px 110px;
+
+    height: 10px;
+    width: 10px;
+
+    box-shadow: inset 0px 2px 20px black;
+}
+
+#cruseta{
+    background-color: #302d2d;
+
+    margin: 130px -105px 0px -105px;
+    padding: 10px 10px;
+
+    height: 10px;
+    width: 10px;
+
+    border-radius: 5px;
+
+    box-shadow: 0px -35px 2px #302d2d,
+                0px 35px 2px #302d2d,
+                -35px 0px 2px #302d2d,
+                35px 0px 2px #302d2d,
+
+                0px -28px 2px #302d2d,
+                0px 28px 2px #302d2d,
+                -28px 0px 2px #302d2d,
+                28px 0px 2px #302d2d,
+
+                0px 0px 20px #302d2d;
+}
+
+#bolacruseta{
+    background-color: #1f1d1d;
+
+    margin: -30px -105px;
+    padding: 10px 10px;
+
+    height: 10px;
+    width: 10px;
+
+    border-radius: 20px;
+}
+
+#basebotoes{
+    background-color: whitesmoke;
+    margin: -55px -61px -70px 100px;
+    padding: 10px 10px;
+    height: 30px;
+    width: 30px;
+    border-radius: 40px;
+    box-shadow: -10px 6px 1px whitesmoke,
+                -20px 12px 1px whitesmoke,
+                -30px 18px 1px whitesmoke,
+                -40px 24px 1px whitesmoke,
+                -50px 30px 1px whitesmoke;
+}
+
+#botao1{
+    background-color: #c9434a;
+    margin: 24px 100px 0px 106px;
+    padding: 10px 10px;
+    height: 20px;
+    width: 20px;
+    border-radius: 20px;
+}
+
+#botao2{
+    background-color: #c9434a;
+    margin: -9px 55px;
+    padding: 10px 10px;
+    height: 20px;
+    width: 20px;
+    border-radius: 20px;
+}
+
+#barra1{
+    background-color: #868686;
+    margin: -13px 62px 0px -18px;
+    padding: 5px 6px;
+    height: 1px;
+    width: 1px;
+    border-radius: 40px;
+    box-shadow: -5px 3px 1px #868686,
+                -10px 6px 1px #868686,
+                -15px 9px 1px #868686,
+                -20px 12px 1px #868686,
+                -25px 15px 1px #868686,
+                -30px 18px 1px #868686,
+                -35px 21px 1px #868686;
+}
+
+#fundobarra1{
+    background-color: whitesmoke;
+    margin: 60px 0px 0px -20px;
+    padding: 5px 6px;
+    height: 5px;
+    width: 5px;
+    border-radius: 40px;
+    box-shadow: -5px 3px 1px whitesmoke,
+                -10px 6px 1px whitesmoke,
+                -15px 9px 1px whitesmoke,
+                -20px 12px 1px whitesmoke,
+                -25px 15px 1px whitesmoke,
+                -30px 18px 1px whitesmoke,
+                -35px 21px 1px whitesmoke;
+}
+
+#barra2{
+    background-color: #868686;
+    margin: -13px 62px 0px 42px;
+    padding: 5px 6px;
+    height: 1px;
+    width: 1px;
+    border-radius: 40px;
+    box-shadow: -5px 3px 1px #868686,
+                -10px 6px 1px #868686,
+                -15px 9px 1px #868686,
+                -20px 12px 1px #868686,
+                -25px 15px 1px #868686,
+                -30px 18px 1px #868686,
+                -35px 21px 1px #868686;
+}
+
+#fundobarra2{
+    background-color: whitesmoke;
+    margin: -20px 0px 0px 40px;
+    padding: 5px 6px;
+    height: 5px;
+    width: 5px;
+    border-radius: 40px;
+    box-shadow: -5px 3px 1px whitesmoke,
+                -10px 6px 1px whitesmoke,
+                -15px 9px 1px whitesmoke,
+                -20px 12px 1px whitesmoke,
+                -25px 15px 1px whitesmoke,
+                -30px 18px 1px whitesmoke,
+                -35px 21px 1px whitesmoke;
+}
+footer{
+    text-align: center;
+    color: #868686;
+}
