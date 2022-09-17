@@ -86,13 +86,13 @@ html{
 #luz{
 background-color: #201e1e;
 margin: -190px 138px 260px -129px;
-padding: 0px 0px 6px 0px;
+padding: 1px 1px 4px 2px;
 height: 10px;
 width: 10px;
 border-radius: 20px;
 
 font-family: 'gameboy', sans-serif;
-font-size: .9em;
+font-size: .7em;
 text-align: center;
 
 transition: 2s;
@@ -190,7 +190,38 @@ transition: 2s;
                 -30px 18px 1px #868686,
                 -35px 21px 1px #868686;
 }
-
+#seta1{
+    background-color: #302d2d;
+    margin: -7px 60px 10px -40px;
+    padding: 10px 10px;
+    height: 1px;
+    width: 1px;
+    border-radius: 40px;
+}
+#seta2{
+    background-color: #302d2d;
+    margin: -75px 0px 60px -7px;
+    padding: 10px 10px;
+    height: 1px;
+    width: 1px;
+    border-radius: 40px;
+}
+#seta3{
+    background-color: #302d2d;
+    margin: -57px 60px 50px 27px;
+    padding: 10px 10px;
+    height: 1px;
+    width: 1px;
+    border-radius: 40px;
+}
+#seta4{
+    background-color: #302d2d;
+    margin: -45px 60px 50px -7px;
+    padding: 10px 10px;
+    height: 1px;
+    width: 1px;
+    border-radius: 40px;
+}
 #fundobarra1{
     background-color: whitesmoke;
     margin: 60px 0px 0px -20px;
@@ -238,7 +269,7 @@ transition: 2s;
                 -30px 18px 1px whitesmoke,
                 -35px 21px 1px whitesmoke;
 }
-footer{
-    text-align: center;
-    color: #868686;
+#res{
+    margin: 33px 0px 0px -119px;
+    padding: 10px 10px 10px 10px;
 }
